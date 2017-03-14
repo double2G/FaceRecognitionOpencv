@@ -26,4 +26,5 @@ while ok:
   ok = cv2.waitKey( waitPerFrameInMillisec  ) < 0
 
 cv2.destroyAllWindows()
-test
+
+
